@@ -50,7 +50,7 @@ Sıradaki kısım ise Rapor Yönetim kısmı
 Bu kısımda günlük, haftalık, aylık ya da belirtilen tarihler arasında cafe en çok hangi masalardan hasılat elde ettiğini ve en çok hangi ürünlerden hasılat elde ettiğini göstermektedir. Aynı zamanda belirtilen tarihler arasındaki masa ve ürün raporlarını Excel olarak raporlayabilir ya da Çıktı olarak alabilirsiniz
 
 ![2022-02-05_19-53-23](https://user-images.githubusercontent.com/60795718/152650853-9e418eb9-2d05-47ae-b732-8b969809d58e.png)
-![2022-02-0![2022-02-05_19-54-31](https://user-images.githubusercontent.com/60795718/152650875-7bea984b-de5b-4b32-a32e-7f6dd47ab09e.png)
+![2022-02-05_19-54-31](https://user-images.githubusercontent.com/60795718/152650875-7bea984b-de5b-4b32-a32e-7f6dd47ab09e.png)
 ![2022-02-05_19-53-56](https://user-images.githubusercontent.com/60795718/152650927-94507049-ea75-4c1f-afcd-17f0991601e8.png)
 
 
